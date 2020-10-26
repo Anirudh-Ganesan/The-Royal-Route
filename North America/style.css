@@ -14,6 +14,9 @@
     align-items:center;
     width:500px;
 }
+#fb-comments{
+    width:500px;
+}
 html {
       scroll-behavior: smooth;
 }
