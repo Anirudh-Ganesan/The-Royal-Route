@@ -7,7 +7,10 @@
     font-family: 'Maven Pro', sans-serif;
     
 }
-
+.fb-comments{
+color:white;
+    background:black;
+}
 html {
       scroll-behavior: smooth;
 }
