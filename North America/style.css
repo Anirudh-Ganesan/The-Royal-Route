@@ -7,7 +7,9 @@
     font-family: 'Maven Pro', sans-serif;
     
 }
-
+#Logo-Img-North-America{
+  min-width: 100%;
+}
 html {
       scroll-behavior: smooth;
 }
